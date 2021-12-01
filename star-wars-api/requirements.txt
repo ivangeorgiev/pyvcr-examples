@@ -1,0 +1,5 @@
+marshmallow
+pytest
+pytest-cov
+pytest-recording
+requests
